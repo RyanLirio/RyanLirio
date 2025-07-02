@@ -1,8 +1,8 @@
-# Hello, I'm Ryan Lirio!
+<h1 align="center">Ryan Lirio</h1>
 
 ### About Me
 
-I am a Computer Science student at UNOESC with a strong passion for **software development** and **data analysis**. My academic background includes a degree in Electroelectronics from IFC, which provides a comprehensive foundation for my current studies. I am always eager to learn new technologies and collaborate on innovative solutions.
+I am a Computer Science student at UNOESC with a strong passion for **software development** and **data analysis**. My academic background includes a degree in Electroelectronics from IFC, which provides a comprehensive foundation for my current studies. I am actively involved in **innovation events**, contributing to and exploring new advancements in technology. I am always eager to learn new technologies and collaborate on innovative solutions.
 
 ### My Skillset
 
@@ -15,7 +15,7 @@ Here are some of the technologies and tools I frequently work with and am curren
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-us/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -54,7 +54,7 @@ Feel free to connect with me professionally:
 
 ### Current Endeavors
 
-* **Currently focused on:** Deepening my understanding of software architectures like **MVC** and **MVVM**, mastering **CRUD** operations, and enhancing my skills in **data analysis using Python**.
+* **Currently focused on:** Deepening my understanding of software architectures like **MVC**, **MVVM**, and **ASP.NET Core**, mastering **CRUD** operations, and enhancing my skills in **data analysis using Python**.
 * **Exploring:** Initiating studies in **PHP** and focusing on robust **database management** with tools like **MySQL** and environments such as **Laragon**.
 * **Open to:** Collaborative projects, discussing new tech trends, and opportunities in software development and data analysis.
 
