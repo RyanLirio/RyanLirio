@@ -1,11 +1,11 @@
 <h1 align="center">Ryan Lirio</h1>
-<h3 align="center">Computer Science Student | Software Development & Data Analysis Enthusiast</h3>
+<h3 align="center">Computer Science Student | IT Support | Software Development & Data Analysis Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
 
-I am a Computer Science student at UNOESC with a strong passion for **software development** and **data analysis**. My academic background includes a degree in Electroelectronics from IFC, which provides a comprehensive foundation for my current studies. I am actively involved in **innovation events**, contributing to and exploring new advancements in technology. I am always eager to learn new technologies and collaborate on innovative solutions.
+I am a Computer Science student at UNOESC with a strong passion for **software development** and **data analysis**. My academic background includes a degree in Electroelectronics from IFC, which provides a comprehensive foundation for my current studies. Currently, I work as **IT Support at Videplast**, applying and expanding my technical skills in a professional environment. I am actively involved in **innovation events**, contributing to and exploring new advancements in technology. I am always eager to learn new technologies and collaborate on innovative solutions.
 
 ---
 
@@ -59,6 +59,7 @@ Here are some of the technologies and tools I frequently work with and am curren
 
 Feel free to connect with me professionally:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-lirio-b67a342a5/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanlirio2@gmail.com)
 
 ---
