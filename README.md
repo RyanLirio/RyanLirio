@@ -1,10 +1,15 @@
 <h1 align="center">Ryan Lirio</h1>
+<h3 align="center">Computer Science Student | Software Development & Data Analysis Enthusiast</h3>
 
-### About Me
+---
+
+### 🚀 About Me
 
 I am a Computer Science student at UNOESC with a strong passion for **software development** and **data analysis**. My academic background includes a degree in Electroelectronics from IFC, which provides a comprehensive foundation for my current studies. I am actively involved in **innovation events**, contributing to and exploring new advancements in technology. I am always eager to learn new technologies and collaborate on innovative solutions.
 
-### My Skillset
+---
+
+### 💻 My Skillset
 
 Here are some of the technologies and tools I frequently work with and am currently exploring:
 
@@ -38,7 +43,9 @@ Here are some of the technologies and tools I frequently work with and am curren
   </a>
 </p>
 
-### GitHub Statistics
+---
+
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RyanLirio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ryan Lirio's GitHub Stats" />
@@ -46,13 +53,17 @@ Here are some of the technologies and tools I frequently work with and am curren
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLirio&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
-### Connect With Me
+---
+
+### 🌐 Connect With Me
 
 Feel free to connect with me professionally:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanlirio2@gmail.com)
 
-### Current Endeavors
+---
+
+### ✨ Current Endeavors
 
 * **Currently focused on:** Deepening my understanding of software architectures like **MVC**, **MVVM**, and **ASP.NET Core**, mastering **CRUD** operations, and enhancing my skills in **data analysis using Python**.
 * **Exploring:** Initiating studies in **PHP** and focusing on robust **database management** with tools like **MySQL** and environments such as **Laragon**.
@@ -60,4 +71,8 @@ Feel free to connect with me professionally:
 
 ---
 
-Thank you for visiting my profile!
+<p align="center">
+  <img src="https://profile-counter.glitch.me/RyanLirio/count.svg" alt="Profile views" />
+</p>
+
+<p align="center">Thank you for visiting my profile!</p>
