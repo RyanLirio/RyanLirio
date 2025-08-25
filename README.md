@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-I am a Computer Science student at UNOESC with a strong passion for **software development** and **data analysis**. My academic background includes a degree in Electroelectronics from IFC, which provides a comprehensive foundation for my current studies. Currently, I work as **IT Support at Videplast**, applying and expanding my technical skills in a professional environment. I am actively involved in **innovation events**, contributing to and exploring new advancements in technology. I am always eager to learn new technologies and collaborate on innovative solutions.
+I am a Computer Science student at UNOESC with a strong passion for **software development** and **data analysis**. My academic background includes a degree in Electroelectronics from IFC, which provides a comprehensive foundation for my current studies. Currently, I work as **IT Support at Videplast**, focusing on **process automation** and applying my technical skills in a professional environment. I am actively involved in **innovation events**, contributing to and exploring new advancements in technology. I am always eager to learn new technologies and collaborate on innovative solutions.
 
 ---
 
@@ -68,6 +68,7 @@ Feel free to connect with me professionally:
 
 * **Currently focused on:** Deepening my understanding of software architectures like **MVC**, **MVVM**, and **ASP.NET Core**, mastering **CRUD** operations, and enhancing my skills in **data analysis using Python**.
 * **Exploring:** Initiating studies in **PHP** and focusing on robust **database management** with tools like **MySQL** and environments such as **Laragon**.
+* **Professional work:** **Process automation at Videplast**, improving efficiency and workflow through IT solutions.
 * **Open to:** Collaborative projects, discussing new tech trends, and opportunities in software development and data analysis.
 
 ---
@@ -76,4 +77,6 @@ Feel free to connect with me professionally:
   <img src="https://profile-counter.glitch.me/RyanLirio/count.svg" alt="Profile views" />
 </p>
 
-<p align="center">Thank you for visiting my profile!</p>
+<p align="center">
+  Thank you for visiting my profile!
+</p>
