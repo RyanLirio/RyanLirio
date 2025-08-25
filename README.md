@@ -73,9 +73,6 @@ Feel free to connect with me professionally:
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/RyanLirio/count.svg" alt="Profile views" />
-</p>
 
 <p align="center">
   Thank you for visiting my profile!
